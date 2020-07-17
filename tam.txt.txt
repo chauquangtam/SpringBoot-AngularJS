@@ -1,13 +1,26 @@
-git clone https://github.com/chauquangtam/SpringBoot-AngularJS.git nhan ban git t? trên git v? pc
+CÃ¡c bÆ°á»›c sá»­ dá»¥ng github
+â€¦or create a new repository on the command line
+echo "# testgithub" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/chauquangtam/testgithub.git
+git push -u origin master
+
+â€¦or push an existing repository from the command line
+git remote add origin https://github.com/chauquangtam/testgithub.git
+git push -u origin master
+
+git clone https://github.com/chauquangtam/SpringBoot-AngularJS.git nhan ban git t? trÃªn git v? pc
 b0
-git status mô t?
+git status mÃ´ t?
 b1
-git add * t?t c? file  or git add "tên file"
+git add * t?t c? file  or git add "tÃªn file"
 b2
-git status mô t?
+git status mÃ´ t?
 b3
-git commit -m"add new file tam.txt" xác nh?n
+git commit -m"add new file tam.txt" xÃ¡c nh?n
 b4
-git push dua lên github
-m?i l?n thêm là làm t? bu?c 1
+git push dua lÃªn github
+m?i l?n thÃªm lÃ  lÃ m t? bu?c 1
 
