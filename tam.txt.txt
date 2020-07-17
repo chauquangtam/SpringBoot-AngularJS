@@ -1,0 +1,13 @@
+git clone https://github.com/chauquangtam/SpringBoot-AngularJS.git nhan ban git t? trên git v? pc
+b0
+git status mô t?
+b1
+git add * t?t c? file  or git add "tên file"
+b2
+git status mô t?
+b3
+git commit -m"add new file tam.txt" xác nh?n
+b4
+git push dua lên github
+m?i l?n thêm là làm t? bu?c 1
+
